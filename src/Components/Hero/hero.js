@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='hero'>
         <div className='mask'>
-<img className='into-img' src={four} />
+<img className='into-img' src={four} alt="" />
         </div>
     <div className='content'>
         <p>HI, I'M MUHAMMAD TAHA SHEIKH</p>
