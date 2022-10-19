@@ -11,10 +11,10 @@ const Hero = () => {
     <div className='content'>
         <p>HI, I'M MUHAMMAD TAHA SHEIKH</p>
    <h1>REACT DEVELOPER</h1>
-   <h2>
+
     <Link to='/project' className='btn'>PROJECTS</Link>
     <Link to='/contact' className='btn btn-light'>CONTACT</Link>
-    </h2>
+    
         </div>
         </div>
   )
